@@ -1,0 +1,25 @@
+{
+  "title": "Labubu Figure",
+  "description": "New restock available!",
+  "fields": [
+    {
+      "name": "Store",
+      "value": "https://www.popmart.com"
+    },
+    {
+      "name": "Price",
+      "value": "$29.99"
+    },
+    {
+      "name": "SKU",
+      "value": "sku002"
+    },
+    {
+      "name": "Add to Cart",
+      "value": "https://www.popmart.com/atc"
+    }
+  ],
+  "image": {
+    "url": "https://image.url"
+  }
+}

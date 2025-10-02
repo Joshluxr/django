@@ -1,0 +1,4 @@
+Store: https://www.popmart.com/us/products/labubu
+Price: $29.99
+SPU_ID | SKU_ID: spu001 | sku002
+ATC Link: https://www.popmart.com/atc

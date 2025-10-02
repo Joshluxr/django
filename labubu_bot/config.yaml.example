@@ -1,0 +1,24 @@
+source_channels:
+  - 123456789012345678
+destination_channel_id: 987654321098765432
+allowed_domains:
+  - "*.popmart.com"
+  - "*.popmartglobal.com"
+  - "*.popmart-uk.com"
+  - "*.popmartinternational.com"
+  - "*.popmartstore.com"
+  - "*.popmartofficial.com"
+labubu_keywords:
+  - labubu
+  - labububu
+  - the monsters
+concurrency_limit: 5
+verification_timeout_seconds: 8
+user_agent: "Mozilla/5.0 (LabubuMonitorBot)"
+retry:
+  attempts: 3
+  backoff_seconds: 1.5
+embed_colors:
+  verified_safe: 0x00FF00
+  suspicious: 0xFFFF00
+  rejected: 0xFF0000

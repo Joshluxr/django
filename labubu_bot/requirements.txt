@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+cachetools
+discord.py
+loguru
+pydantic
+pytest
+pytest-asyncio
+python-dotenv
+pyyaml
